@@ -3,7 +3,8 @@
 # PromptEnhancer: A Simple Approach to Enhance Text-to-Image Models via Chain-of-Thought Prompt Rewriting
 
 [**Linqing Wang**](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4z9rmDHYjp5o28xKk8U4ddD_n7BuMnk8UZFP-jygFBtHUSz6pf-5FP32B_yKMpRU9VpDY3iT8eM0zORHA&user=Hy12lcEAAAAJ) · 
-[**Ximing Xing**](https://ximinng.github.io/) · 
+[**Ximing Xing**](https://ximinng.github.io/) ·
+Zhiyong Xu · 
 [**Yiji Cheng**](https://scholar.google.com/citations?user=Plo8ZSYAAAAJ&hl=en) · 
 Zhiyuan Zhao · 
 Donghao Li ·
