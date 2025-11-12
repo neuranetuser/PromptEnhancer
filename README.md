@@ -290,4 +290,6 @@ If you would like to leave a message for our R&D and product teams, Welcome to c
 
 ## Github Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Hunyuan-PromptEnhancer/PromptEnhancer&type=date&legend=top-left)](https://www.star-history.com/#Hunyuan-PromptEnhancer/PromptEnhancer&type=date&legend=top-left)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Hunyuan-PromptEnhancer/PromptEnhancer&type=date&logscale&legend=top-left)](https://www.star-history.com/#Hunyuan-PromptEnhancer/PromptEnhancer&type=date&logscale&legend=top-left)
